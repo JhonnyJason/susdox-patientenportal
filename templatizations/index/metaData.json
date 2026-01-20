@@ -1,0 +1,9 @@
+{
+  "cli": "templatize-html@0.1.0",
+  "hashes": {
+    "/home/lenny/thingies/templetized-patient-portal/testing/patientenportal/templatizations/sources/source/index/script.js": "a3b4e32e90a2d54419e441e76be8e9528b0215ea8772f90e45b8b3cb2132ac1f",
+    "/home/lenny/thingies/templetized-patient-portal/testing/patientenportal/templatizations/sources/source/index/style.css": "c2dbe4f9877407fc9f5d0e79523f99b369892c9c8e3cad9d6e218396c78c4345",
+    "/home/lenny/thingies/templetized-patient-portal/testing/patientenportal/sources/source/index/script.js": "a3b4e32e90a2d54419e441e76be8e9528b0215ea8772f90e45b8b3cb2132ac1f",
+    "/home/lenny/thingies/templetized-patient-portal/testing/patientenportal/sources/source/index/style.css": "c2dbe4f9877407fc9f5d0e79523f99b369892c9c8e3cad9d6e218396c78c4345"
+  }
+}

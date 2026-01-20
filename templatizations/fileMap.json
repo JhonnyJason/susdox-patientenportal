@@ -1,0 +1,16 @@
+{
+    "metaDataPath": "../templatizations/{{{pagename}}}/metaData.json",
+
+    "scriptPath": "../sources/source/{{{pagename}}}/script.js",
+    "stylePath": "../sources/source/{{{pagename}}}/style.css",
+
+    "documentHeadPugPath": "../sources/page-heads/{{{pagename}}}/document-head.pug",
+    "documentHeadMustachePath": "../templatizations/{{{pagename}}}/templates/head.mustache",
+
+    "bodyMustachePath": "../templatizations/{{{pagename}}}/templates/body.mustache",
+    "bodyPugPath": "../sources/source/{{{pagename}}}/{{{pagename}}}body.pug",
+    "staticContentPath": "../templatizations/{{{pagename}}}/content/static.json",
+
+    "dynamicContentDir": "../templatizations/{{{pagename}}}/content/dynamic/",
+    "contentMappingsDir": "../templatizations/{{{pagename}}}/content/mappings/"
+}
